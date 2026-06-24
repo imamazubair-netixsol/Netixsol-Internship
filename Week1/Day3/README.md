@@ -181,4 +181,4 @@ jupyter notebook
 
 **Imama Zubair**
 
-This project was completed as part of a structured internship data science learning plan, focusing on practical Pandas data wrangling and analytical skills.
+This project was completed as part of a structured internship data science learning plan, focusing on practical Pandas.
